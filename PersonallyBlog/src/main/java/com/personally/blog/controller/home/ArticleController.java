@@ -9,7 +9,7 @@ import com.personally.blog.entity.Article;
 import com.personally.blog.entity.Comment;
 import com.personally.blog.entity.Tag;
 import com.personally.blog.entity.User;
-import com.liuyanzhao.ssm.blog.service.*;
+import com.personally.blog.service.*;
 import com.personally.blog.service.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

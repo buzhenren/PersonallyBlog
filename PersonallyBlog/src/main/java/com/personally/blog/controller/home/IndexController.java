@@ -7,8 +7,8 @@ import com.personally.blog.enums.ArticleStatus;
 import com.personally.blog.enums.LinkStatus;
 import com.personally.blog.enums.NoticeStatus;
 
-import com.liuyanzhao.ssm.blog.entity.*;
-import com.liuyanzhao.ssm.blog.service.*;
+import com.personally.blog.entity.*;
+import com.personally.blog.service.*;
 import com.personally.blog.service.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

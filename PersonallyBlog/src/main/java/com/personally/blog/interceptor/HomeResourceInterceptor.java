@@ -8,7 +8,7 @@ import com.personally.blog.enums.LinkStatus;
 
 import com.personally.blog.entity.Category;
 import com.personally.blog.entity.Menu;
-import com.liuyanzhao.ssm.blog.service.*;
+import com.personally.blog.service.*;
 import com.personally.blog.service.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
